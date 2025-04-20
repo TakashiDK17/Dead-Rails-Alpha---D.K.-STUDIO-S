@@ -1,0 +1,706 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Discord user", Text = "takashi_dk17"})
+
+local TestService = Instance.new("ScreenGui")
+local bytakashi_dk17 = Instance.new("ImageLabel")
+local bytakashi_dk17_2 = Instance.new("Frame")
+local bytakashi_dk17_3 = Instance.new("ImageButton")
+local bytakashi_dk17_4 = Instance.new("ImageLabel")
+local bytakashi_dk17_5 = Instance.new("ImageLabel")
+local bytakashi_dk17_6 = Instance.new("TextLabel")
+local BannerText = Instance.new("ImageLabel")
+local bytakashi_dk17_7 = Instance.new("Frame")
+local bytakashi_dk17_8 = Instance.new("Frame")
+local bytakashi_dk17_9 = Instance.new("TextLabel")
+local Noclip = Instance.new("TextButton")
+local bytakashi_dk17_10 = Instance.new("TextLabel")
+local TextButton_Roundify_4px = Instance.new("ImageLabel")
+local Lighthing = Instance.new("TextButton")
+local bytakashi_dk17_11 = Instance.new("TextLabel")
+local TextButton_Roundify_4px_2 = Instance.new("ImageLabel")
+local XRay = Instance.new("TextButton")
+local bytakashi_dk17_12 = Instance.new("TextLabel")
+local TextButton_Roundify_4px_3 = Instance.new("ImageLabel")
+local UnlockMouse = Instance.new("TextButton")
+local bytakashi_dk17_13 = Instance.new("TextLabel")
+local TextButton_Roundify_4px_4 = Instance.new("ImageLabel")
+local RemoveBv = Instance.new("ImageLabel")
+local bytakashi_dk17_14 = Instance.new("TextLabel")
+local bytakashi_dk17_15 = Instance.new("TextLabel")
+local bytakashi_dk17_16 = Instance.new("TextLabel")
+local bytakashi_dk17_17 = Instance.new("TextButton")
+
+--Properties:
+
+TestService.Name = "Test Service"
+TestService.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+TestService.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+TestService.ResetOnSpawn = false
+
+bytakashi_dk17.Name = "-- by @takashi_dk17"
+bytakashi_dk17.Parent = TestService
+bytakashi_dk17.Active = true
+bytakashi_dk17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17.BackgroundTransparency = 1.000
+bytakashi_dk17.ClipsDescendants = true
+bytakashi_dk17.Draggable = true
+bytakashi_dk17.Position = UDim2.new(0.00627943501, 0, 0.777905643, 0)
+bytakashi_dk17.Selectable = true
+bytakashi_dk17.Size = UDim2.new(0.2511774, 0, 0.210586876, 0)
+bytakashi_dk17.ZIndex = 0
+bytakashi_dk17.Image = "rbxassetid://2851926732"
+bytakashi_dk17.ImageColor3 = Color3.fromRGB(20, 21, 23)
+bytakashi_dk17.ScaleType = Enum.ScaleType.Slice
+bytakashi_dk17.SliceCenter = Rect.new(12, 12, 12, 12)
+
+bytakashi_dk17_2.Name = "-- by @takashi_dk17"
+bytakashi_dk17_2.Parent = bytakashi_dk17
+bytakashi_dk17_2.BackgroundColor3 = Color3.fromRGB(41, 74, 122)
+bytakashi_dk17_2.BorderSizePixel = 0
+bytakashi_dk17_2.Size = UDim2.new(1, 0, 0.0819672123, 0)
+bytakashi_dk17_2.ZIndex = 11
+
+bytakashi_dk17_3.Name = "-- by @takashi_dk17"
+bytakashi_dk17_3.Parent = bytakashi_dk17_2
+bytakashi_dk17_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_3.BackgroundTransparency = 1.000
+bytakashi_dk17_3.Position = UDim2.new(0.015625, 0, 0.200000003, 0)
+bytakashi_dk17_3.Rotation = 90.000
+bytakashi_dk17_3.Size = UDim2.new(0.0625, 0, 1.33333337, 0)
+bytakashi_dk17_3.ZIndex = 12
+bytakashi_dk17_3.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=4731371541"
+
+bytakashi_dk17_4.Name = "-- by @takashi_dk17"
+bytakashi_dk17_4.Parent = bytakashi_dk17_2
+bytakashi_dk17_4.BackgroundColor3 = Color3.fromRGB(41, 74, 122)
+bytakashi_dk17_4.BorderSizePixel = 0
+bytakashi_dk17_4.Position = UDim2.new(0, 0, 0.800000012, 0)
+bytakashi_dk17_4.Size = UDim2.new(1, 0, 0.666666687, 0)
+bytakashi_dk17_4.ZIndex = 11
+bytakashi_dk17_4.Image = "rbxassetid://2851926732"
+bytakashi_dk17_4.ImageColor3 = Color3.fromRGB(41, 74, 122)
+bytakashi_dk17_4.ScaleType = Enum.ScaleType.Slice
+bytakashi_dk17_4.SliceCenter = Rect.new(12, 12, 12, 12)
+
+bytakashi_dk17_5.Name = "-- by @takashi_dk17"
+bytakashi_dk17_5.Parent = bytakashi_dk17_2
+bytakashi_dk17_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_5.BackgroundTransparency = 1.000
+bytakashi_dk17_5.Position = UDim2.new(0, 0, -0.333333343, 0)
+bytakashi_dk17_5.Size = UDim2.new(1, 0, 0.666666687, 0)
+bytakashi_dk17_5.ZIndex = 11
+bytakashi_dk17_5.Image = "rbxassetid://2851926732"
+bytakashi_dk17_5.ImageColor3 = Color3.fromRGB(41, 74, 122)
+bytakashi_dk17_5.ScaleType = Enum.ScaleType.Slice
+bytakashi_dk17_5.SliceCenter = Rect.new(12, 12, 12, 12)
+
+bytakashi_dk17_6.Name = "-- by @takashi_dk17"
+bytakashi_dk17_6.Parent = bytakashi_dk17_2
+bytakashi_dk17_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_6.BackgroundTransparency = 1.000
+bytakashi_dk17_6.Position = UDim2.new(0.0843750015, 0, 0.0666666701, 0)
+bytakashi_dk17_6.Size = UDim2.new(0.625, 0, 1.33333337, 0)
+bytakashi_dk17_6.ZIndex = 11
+bytakashi_dk17_6.Font = Enum.Font.GothamBold
+bytakashi_dk17_6.Text = "Dead Rails Alpha GUI | B-12 Scripts"
+bytakashi_dk17_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_6.TextSize = 14.000
+bytakashi_dk17_6.TextXAlignment = Enum.TextXAlignment.Left
+
+BannerText.Name = "Banner Text"
+BannerText.Parent = bytakashi_dk17
+BannerText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BannerText.BackgroundTransparency = 1.000
+BannerText.Position = UDim2.new(0.046875, 0, 0.163934425, 0)
+BannerText.Size = UDim2.new(0.90625, 0, 0.136612028, 0)
+BannerText.ZIndex = 11
+BannerText.Image = "rbxassetid://2851929490"
+BannerText.ImageColor3 = Color3.fromRGB(36, 38, 40)
+BannerText.ScaleType = Enum.ScaleType.Slice
+BannerText.SliceCenter = Rect.new(4, 4, 4, 4)
+
+bytakashi_dk17_7.Name = "-- by @takashi_dk17"
+bytakashi_dk17_7.Parent = BannerText
+bytakashi_dk17_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_7.BackgroundTransparency = 1.000
+bytakashi_dk17_7.Size = UDim2.new(1, 0, 1, 0)
+bytakashi_dk17_7.ZIndex = 11
+
+bytakashi_dk17_8.Name = "-- by @takashi_dk17"
+bytakashi_dk17_8.Parent = BannerText
+bytakashi_dk17_8.BackgroundColor3 = Color3.fromRGB(41, 74, 122)
+bytakashi_dk17_8.BorderColor3 = Color3.fromRGB(26, 42, 52)
+bytakashi_dk17_8.BorderSizePixel = 0
+bytakashi_dk17_8.Position = UDim2.new(0, 0, 1, 0)
+bytakashi_dk17_8.Size = UDim2.new(1, 0, 0.0799999908, 0)
+bytakashi_dk17_8.ZIndex = 11
+
+bytakashi_dk17_9.Name = "-- by @takashi_dk17"
+bytakashi_dk17_9.Parent = BannerText
+bytakashi_dk17_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_9.BackgroundTransparency = 1.000
+bytakashi_dk17_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
+bytakashi_dk17_9.BorderSizePixel = 0
+bytakashi_dk17_9.Position = UDim2.new(-0.0103448275, 0, -0.0799999908, 0)
+bytakashi_dk17_9.Size = UDim2.new(1.00344825, 0, 1.03999996, 0)
+bytakashi_dk17_9.Font = Enum.Font.SourceSans
+bytakashi_dk17_9.Text = "D.K. STUDIO'S // B-12 Scripts"
+bytakashi_dk17_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_9.TextSize = 14.000
+
+Noclip.Name = "Noclip"
+Noclip.Parent = bytakashi_dk17
+Noclip.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Noclip.BackgroundTransparency = 1.000
+Noclip.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Noclip.BorderSizePixel = 0
+Noclip.Position = UDim2.new(0.0445868, 0, 0.384821653, 0)
+Noclip.Size = UDim2.new(0.0625, 0, 0.109289616, 0)
+Noclip.Font = Enum.Font.SourceSans
+Noclip.Text = ""
+Noclip.TextColor3 = Color3.fromRGB(255, 255, 255)
+Noclip.TextSize = 18.000
+
+bytakashi_dk17_10.Name = "-- by @takashi_dk17"
+bytakashi_dk17_10.Parent = Noclip
+bytakashi_dk17_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_10.BackgroundTransparency = 1.000
+bytakashi_dk17_10.Position = UDim2.new(1.20000005, 0, 0, 0)
+bytakashi_dk17_10.Size = UDim2.new(1, 0, 1, 0)
+bytakashi_dk17_10.ZIndex = 11
+bytakashi_dk17_10.Font = Enum.Font.GothamMedium
+bytakashi_dk17_10.Text = "Noclip (OFF/ON)"
+bytakashi_dk17_10.TextColor3 = Color3.fromRGB(200, 200, 200)
+bytakashi_dk17_10.TextSize = 14.000
+bytakashi_dk17_10.TextXAlignment = Enum.TextXAlignment.Left
+
+TextButton_Roundify_4px.Name = "TextButton_Roundify_4px"
+TextButton_Roundify_4px.Parent = Noclip
+TextButton_Roundify_4px.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_Roundify_4px.BackgroundTransparency = 1.000
+TextButton_Roundify_4px.Size = UDim2.new(1, 0, 1, 0)
+TextButton_Roundify_4px.ZIndex = 11
+TextButton_Roundify_4px.Image = "rbxassetid://2851929490"
+TextButton_Roundify_4px.ImageColor3 = Color3.fromRGB(41, 74, 122)
+TextButton_Roundify_4px.ImageTransparency = 0.500
+TextButton_Roundify_4px.ScaleType = Enum.ScaleType.Slice
+TextButton_Roundify_4px.SliceCenter = Rect.new(4, 4, 4, 4)
+
+Lighthing.Name = "Lighthing"
+Lighthing.Parent = bytakashi_dk17
+Lighthing.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Lighthing.BackgroundTransparency = 1.000
+Lighthing.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Lighthing.BorderSizePixel = 0
+Lighthing.Position = UDim2.new(0.491461754, 0, 0.384821653, 0)
+Lighthing.Size = UDim2.new(0.0625, 0, 0.109289616, 0)
+Lighthing.Font = Enum.Font.SourceSans
+Lighthing.Text = ""
+Lighthing.TextColor3 = Color3.fromRGB(255, 255, 255)
+Lighthing.TextSize = 18.000
+
+bytakashi_dk17_11.Name = "-- by @takashi_dk17"
+bytakashi_dk17_11.Parent = Lighthing
+bytakashi_dk17_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_11.BackgroundTransparency = 1.000
+bytakashi_dk17_11.Position = UDim2.new(1.20000005, 0, 0, 0)
+bytakashi_dk17_11.Size = UDim2.new(1, 0, 1, 0)
+bytakashi_dk17_11.ZIndex = 11
+bytakashi_dk17_11.Font = Enum.Font.GothamMedium
+bytakashi_dk17_11.Text = "Remover Lighthing"
+bytakashi_dk17_11.TextColor3 = Color3.fromRGB(200, 200, 200)
+bytakashi_dk17_11.TextSize = 14.000
+bytakashi_dk17_11.TextXAlignment = Enum.TextXAlignment.Left
+
+TextButton_Roundify_4px_2.Name = "TextButton_Roundify_4px"
+TextButton_Roundify_4px_2.Parent = Lighthing
+TextButton_Roundify_4px_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_Roundify_4px_2.BackgroundTransparency = 1.000
+TextButton_Roundify_4px_2.Size = UDim2.new(1, 0, 1, 0)
+TextButton_Roundify_4px_2.ZIndex = 11
+TextButton_Roundify_4px_2.Image = "rbxassetid://2851929490"
+TextButton_Roundify_4px_2.ImageColor3 = Color3.fromRGB(41, 74, 122)
+TextButton_Roundify_4px_2.ImageTransparency = 0.500
+TextButton_Roundify_4px_2.ScaleType = Enum.ScaleType.Slice
+TextButton_Roundify_4px_2.SliceCenter = Rect.new(4, 4, 4, 4)
+
+XRay.Name = "X-Ray"
+XRay.Parent = bytakashi_dk17
+XRay.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+XRay.BackgroundTransparency = 1.000
+XRay.BorderColor3 = Color3.fromRGB(0, 0, 0)
+XRay.BorderSizePixel = 0
+XRay.Position = UDim2.new(0.0445868, 0, 0.576078475, 0)
+XRay.Size = UDim2.new(0.0625, 0, 0.109289616, 0)
+XRay.Font = Enum.Font.SourceSans
+XRay.Text = ""
+XRay.TextColor3 = Color3.fromRGB(255, 255, 255)
+XRay.TextSize = 18.000
+
+bytakashi_dk17_12.Name = "-- by @takashi_dk17"
+bytakashi_dk17_12.Parent = XRay
+bytakashi_dk17_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_12.BackgroundTransparency = 1.000
+bytakashi_dk17_12.Position = UDim2.new(1.20000005, 0, 0, 0)
+bytakashi_dk17_12.Size = UDim2.new(1, 0, 1, 0)
+bytakashi_dk17_12.ZIndex = 11
+bytakashi_dk17_12.Font = Enum.Font.GothamMedium
+bytakashi_dk17_12.Text = "X-Ray (Test)"
+bytakashi_dk17_12.TextColor3 = Color3.fromRGB(200, 200, 200)
+bytakashi_dk17_12.TextSize = 14.000
+bytakashi_dk17_12.TextXAlignment = Enum.TextXAlignment.Left
+
+TextButton_Roundify_4px_3.Name = "TextButton_Roundify_4px"
+TextButton_Roundify_4px_3.Parent = XRay
+TextButton_Roundify_4px_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_Roundify_4px_3.BackgroundTransparency = 1.000
+TextButton_Roundify_4px_3.Size = UDim2.new(1, 0, 1, 0)
+TextButton_Roundify_4px_3.ZIndex = 11
+TextButton_Roundify_4px_3.Image = "rbxassetid://2851929490"
+TextButton_Roundify_4px_3.ImageColor3 = Color3.fromRGB(41, 74, 122)
+TextButton_Roundify_4px_3.ImageTransparency = 0.500
+TextButton_Roundify_4px_3.ScaleType = Enum.ScaleType.Slice
+TextButton_Roundify_4px_3.SliceCenter = Rect.new(4, 4, 4, 4)
+
+UnlockMouse.Name = "Unlock Mouse"
+UnlockMouse.Parent = bytakashi_dk17
+UnlockMouse.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+UnlockMouse.BackgroundTransparency = 1.000
+UnlockMouse.BorderColor3 = Color3.fromRGB(0, 0, 0)
+UnlockMouse.BorderSizePixel = 0
+UnlockMouse.Position = UDim2.new(0.488336861, 0, 0.576078475, 0)
+UnlockMouse.Size = UDim2.new(0.0625, 0, 0.109289616, 0)
+UnlockMouse.Font = Enum.Font.SourceSans
+UnlockMouse.Text = ""
+UnlockMouse.TextColor3 = Color3.fromRGB(255, 255, 255)
+UnlockMouse.TextSize = 18.000
+
+bytakashi_dk17_13.Name = "-- by @takashi_dk17"
+bytakashi_dk17_13.Parent = UnlockMouse
+bytakashi_dk17_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_13.BackgroundTransparency = 1.000
+bytakashi_dk17_13.Position = UDim2.new(1.20000005, 0, 0, 0)
+bytakashi_dk17_13.Size = UDim2.new(1, 0, 1, 0)
+bytakashi_dk17_13.ZIndex = 11
+bytakashi_dk17_13.Font = Enum.Font.GothamMedium
+bytakashi_dk17_13.Text = "Unlock Mouse (OFF)"
+bytakashi_dk17_13.TextColor3 = Color3.fromRGB(200, 200, 200)
+bytakashi_dk17_13.TextSize = 14.000
+bytakashi_dk17_13.TextXAlignment = Enum.TextXAlignment.Left
+
+TextButton_Roundify_4px_4.Name = "TextButton_Roundify_4px"
+TextButton_Roundify_4px_4.Parent = UnlockMouse
+TextButton_Roundify_4px_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_Roundify_4px_4.BackgroundTransparency = 1.000
+TextButton_Roundify_4px_4.Size = UDim2.new(1, 0, 1, 0)
+TextButton_Roundify_4px_4.ZIndex = 11
+TextButton_Roundify_4px_4.Image = "rbxassetid://2851929490"
+TextButton_Roundify_4px_4.ImageColor3 = Color3.fromRGB(41, 74, 122)
+TextButton_Roundify_4px_4.ImageTransparency = 0.500
+TextButton_Roundify_4px_4.ScaleType = Enum.ScaleType.Slice
+TextButton_Roundify_4px_4.SliceCenter = Rect.new(4, 4, 4, 4)
+
+RemoveBv.Name = "Remove Bv"
+RemoveBv.Parent = bytakashi_dk17
+RemoveBv.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+RemoveBv.BackgroundTransparency = 1.000
+RemoveBv.Position = UDim2.new(0.03125, 0, 0.835245788, 0)
+RemoveBv.Size = UDim2.new(0.934374988, 0, 0.109289616, 0)
+RemoveBv.ZIndex = 11
+RemoveBv.Image = "rbxassetid://2851929490"
+RemoveBv.ImageColor3 = Color3.fromRGB(36, 38, 40)
+RemoveBv.ScaleType = Enum.ScaleType.Slice
+RemoveBv.SliceCenter = Rect.new(4, 4, 4, 4)
+
+bytakashi_dk17_14.Name = "-- by @takashi_dk17"
+bytakashi_dk17_14.Parent = RemoveBv
+bytakashi_dk17_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_14.BackgroundTransparency = 1.000
+bytakashi_dk17_14.Position = UDim2.new(0.5, 0, 0, 0)
+bytakashi_dk17_14.Size = UDim2.new(0, 0, 1, 0)
+bytakashi_dk17_14.ZIndex = 12
+bytakashi_dk17_14.Font = Enum.Font.GothamBold
+bytakashi_dk17_14.Text = "Hitbox Expander"
+bytakashi_dk17_14.TextColor3 = Color3.fromRGB(200, 200, 200)
+bytakashi_dk17_14.TextSize = 14.000
+
+bytakashi_dk17_15.Name = "-- by @takashi_dk17"
+bytakashi_dk17_15.Parent = RemoveBv
+bytakashi_dk17_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_15.BackgroundTransparency = 1.000
+bytakashi_dk17_15.Position = UDim2.new(0.933110356, 0, -0.75, 0)
+bytakashi_dk17_15.Size = UDim2.new(0.0869565234, 0, 2.5, 0)
+bytakashi_dk17_15.Font = Enum.Font.GothamBold
+bytakashi_dk17_15.Text = "]"
+bytakashi_dk17_15.TextColor3 = Color3.fromRGB(160, 160, 160)
+bytakashi_dk17_15.TextSize = 14.000
+
+bytakashi_dk17_16.Name = "-- by @takashi_dk17"
+bytakashi_dk17_16.Parent = RemoveBv
+bytakashi_dk17_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_16.BackgroundTransparency = 1.000
+bytakashi_dk17_16.Position = UDim2.new(-0.0301003233, 0, -0.75, 0)
+bytakashi_dk17_16.Size = UDim2.new(0.0869565234, 0, 2.5, 0)
+bytakashi_dk17_16.Font = Enum.Font.GothamBold
+bytakashi_dk17_16.Text = "["
+bytakashi_dk17_16.TextColor3 = Color3.fromRGB(160, 160, 160)
+bytakashi_dk17_16.TextSize = 14.000
+
+bytakashi_dk17_17.Name = "-- by @takashi_dk17"
+bytakashi_dk17_17.Parent = RemoveBv
+bytakashi_dk17_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+bytakashi_dk17_17.BackgroundTransparency = 1.000
+bytakashi_dk17_17.BorderColor3 = Color3.fromRGB(0, 0, 0)
+bytakashi_dk17_17.BorderSizePixel = 0
+bytakashi_dk17_17.Size = UDim2.new(1, 0, 1, 0)
+bytakashi_dk17_17.ZIndex = 11
+bytakashi_dk17_17.Font = Enum.Font.SourceSans
+bytakashi_dk17_17.TextColor3 = Color3.fromRGB(0, 0, 0)
+bytakashi_dk17_17.TextSize = 14.000
+bytakashi_dk17_17.TextTransparency = 1.000
+
+-- Scripts:
+
+local function TELTC_fake_script() -- bytakashi_dk17.Dragify 
+	local script = Instance.new('LocalScript', bytakashi_dk17)
+
+	local UIS = game:GetService("UserInputService")
+	function dragify(Frame)
+	    dragToggle = nil
+	    dragSpeed = 1.25
+	    dragInput = nil
+	    dragStart = nil
+	    dragPos = nil
+	    function updateInput(input)
+	        Delta = input.Position - dragStart
+	        Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+	        game:GetService("TweenService"):Create(Frame, TweenInfo.new(0.25), {Position = Position}):Play()
+	    end
+	    Frame.InputBegan:Connect(function(input)
+	        if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UIS:GetFocusedTextBox() == nil then
+	            dragToggle = true
+	            dragStart = input.Position
+	            startPos = Frame.Position
+	            input.Changed:Connect(function()
+	                if input.UserInputState == Enum.UserInputState.End then
+	                    dragToggle = false
+	                end
+	            end)
+	        end
+	    end)
+	    Frame.InputChanged:Connect(function(input)
+	        if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+	            dragInput = input
+	        end
+	    end)
+	    game:GetService("UserInputService").InputChanged:Connect(function(input)
+	        if input == dragInput and dragToggle then
+	            updateInput(input)
+	        end
+	    end)
+	end
+	
+	dragify(script.Parent)
+	
+end
+coroutine.wrap(TELTC_fake_script)()
+local function FPCBCAH_fake_script() -- Noclip.Noclip 
+	local script = Instance.new('LocalScript', Noclip)
+
+	local button = script.Parent 
+	local Noclip = nil  
+	local Clip = true 
+	local originalCollisions = {}
+	
+	function saveOriginalCollisions()  
+		local character = game.Players.LocalPlayer.Character  
+		if character then  
+			for _, part in pairs(character:GetDescendants()) do  
+				if part:IsA('BasePart') then  
+					
+					originalCollisions[part] = part.CanCollide  
+				end  
+			end  
+		end  
+	end  
+	
+	function noclip()  
+		Clip = false  
+		saveOriginalCollisions() 
+		local function Nocl()  
+			local character = game.Players.LocalPlayer.Character  
+			if not Clip and character then  
+				for _, v in pairs(character:GetDescendants()) do  
+					if v:IsA('BasePart') and v.CanCollide and v.Name ~= "floatName" then  
+						v.CanCollide = false  
+					end  
+				end  
+			end  
+			wait(0.21)
+		end  
+		Noclip = game:GetService('RunService').Stepped:Connect(Nocl)  
+	
+		
+		button.Text = "✓"  
+	end  
+	
+	function clip()  
+		if Noclip then Noclip:Disconnect() end  
+		Clip = true  
+	
+		
+		local character = game.Players.LocalPlayer.Character  
+		if character then  
+			for part, originalState in pairs(originalCollisions) do  
+				if part:IsA('BasePart') then  
+					part.CanCollide = originalState
+				end  
+			end  
+		end  
+	
+		
+		originalCollisions = {}  
+	
+		
+		button.Text = " "  
+	end  
+	
+	button.MouseButton1Click:Connect(function()  
+		if Clip then  
+			noclip()
+		else  
+			clip()
+		end  
+	end)
+end
+coroutine.wrap(FPCBCAH_fake_script)()
+local function YLWCIKX_fake_script() -- Lighthing.Deleted Lighthing 
+	local script = Instance.new('LocalScript', Lighthing)
+
+	local button = script.Parent  -- by @takashi_dk17
+	local lighting = game:GetService("Lighting")  -- by @takashi_dk17
+	
+	button.MouseButton1Click:Connect(function()  -- by @takashi_dk17
+		local sunRays = lighting:FindFirstChild("SunRays") -- by @takashi_dk17
+	
+		if sunRays then  -- by @takashi_dk17
+			sunRays:Destroy()  -- by @takashi_dk17
+			print("SunRays eliminado.")  
+		else  
+			print("SunRays no encontrado en Lighting.")  
+		end  
+	end)  
+	
+	local button = script.Parent -- by @takashi_dk17
+	local lighting = game:GetService("Lighting") -- by @takashi_dk17
+	
+	button.MouseButton1Click:Connect(function()  -- by @takashi_dk17
+		local grayCloudSky = lighting:FindFirstChild("GrayCloudSky")  -- by @takashi_dk17  
+	
+		if grayCloudSky then  -- by @takashi_dk17
+			grayCloudSky:Destroy()  -- by @takashi_dk17
+			print("GrayCloudSky eliminado.")  
+		else  
+			print("GrayCloudSky no encontrado en Lighting.")  
+		end  
+	end)  
+	
+	local button = script.Parent  -- by @takashi_dk17
+	local lighting = game:GetService("Lighting")  -- by @takashi_dk17
+	
+	button.MouseButton1Click:Connect(function() -- by @takashi_dk17
+		local depthOfField = lighting:FindFirstChild("DepthOfField")  -- by @takashi_dk17
+	
+		if depthOfField then -- by @takashi_dk17
+			depthOfField:Destroy()  -- by @takashi_dk17
+			print("DepthOfField eliminado.")  
+		else  
+			print("DepthOfField no encontrado en Lighting.")  
+		end  
+	end)  
+	
+	local button = script.Parent -- by @takashi_dk17
+	local lighting = game:GetService("Lighting") -- by @takashi_dk17
+	
+	button.MouseButton1Click:Connect(function()  -- by @takashi_dk17
+		local bloom = lighting:FindFirstChild("Bloom") -- by @takashi_dk17
+	
+		if bloom then -- by @takashi_dk17
+			bloom:Destroy()  -- by @takashi_dk17
+			print("Bloom eliminado.")  
+		else  
+			print("Bloom no encontrado en Lighting.")  
+		end  
+	end)  
+	
+	local button = script.Parent -- by @takashi_dk17
+	local lighting = game:GetService("Lighting") -- by @takashi_dk17
+	
+	button.MouseButton1Click:Connect(function()  -- by @takashi_dk17
+		local atmosphere = lighting:FindFirstChild("Atmosphere")  -- by @takashi_dk17
+	
+		if atmosphere then  -- by @takashi_dk17
+			atmosphere:Destroy()  -- by @takashi_dk17
+			print("Atmosphere eliminado.")  
+		else  
+			print("Atmosphere no encontrado en Lighting.")  
+		end  
+	end)  
+end
+coroutine.wrap(YLWCIKX_fake_script)()
+local function MSIR_fake_script() -- Lighthing.Change Name 
+	local script = Instance.new('LocalScript', Lighthing)
+
+	local textButton = script.Parent  
+	
+	textButton.MouseButton1Click:Connect(function()  
+		textButton.Text = "✓"  
+	end)  
+end
+coroutine.wrap(MSIR_fake_script)()
+local function CZZBWRK_fake_script() -- Lighthing.Linterna 
+	local script = Instance.new('LocalScript', Lighthing)
+
+	local textButton = script.Parent -- by @takashi_dk17
+	
+	textButton.MouseButton1Click:Connect(function()  
+		local player = game.Players.LocalPlayer -- by @takashi_dk17
+		local character = player.Character or player.CharacterAdded:Wait() -- by @takashi_dk17
+		local head = character:FindFirstChild("Head") -- by @takashi_dk17
+	
+		-- by @takashi_dk17 
+		if head then  
+			local existingLight = head:FindFirstChildOfClass("SurfaceLight") -- by @takashi_dk17 
+	
+			if not existingLight then  
+				local surfaceLight = Instance.new("SurfaceLight") -- by @takashi_dk17
+				surfaceLight.Brightness = 5 -- by @takashi_dk17 
+				surfaceLight.Range = 60 -- by @takashi_dk17
+				surfaceLight.Parent = head -- by @takashi_dk17
+			else  
+				print("El SurfaceLight ya existe en la cabeza.")  
+			end  
+		else  
+			warn("No se encontró la cabeza del jugador.")  
+		end  
+	end)  
+end
+coroutine.wrap(CZZBWRK_fake_script)()
+-- XRay.Bring all objets is disabled.
+local function NWTHDTS_fake_script() -- XRay.X-ray 
+	local script = Instance.new('LocalScript', XRay)
+
+	local button = script.Parent  -- by @takashi_dk17  
+	local isTransparent = false    -- by @takashi_dk17
+	
+	button.MouseButton1Click:Connect(function()  
+		isTransparent = not isTransparent  -- Cambia el estado de transparencia  
+	
+		-- Cambia la transparencia de todas las partes en Workspace  
+		for _, part in ipairs(game.Workspace:GetDescendants()) do  
+			if part:IsA("BasePart") then  
+				-- by @takashi_dk17
+				local model = part:FindFirstAncestorOfClass("Model")  
+	
+				if (model and (model:FindFirstChildOfClass("Humanoid") or model.Name == "Train" or model.Name == "Baseplate")) or  
+					(part.Name == "BuildingNode" or part.Name == "SellZone" or part.Name == "BuyZone") then  
+					-- by @takashi_dk17
+					continue  
+				end  
+	
+				-- by @takashi_dk17 
+				part.Transparency = isTransparent and 0.3 or 0  
+			end  
+		end  
+	
+		-- Cambia el texto del botón  
+		if isTransparent then  
+			button.Text = "✓"  -- by @takashi_dk17 
+		else  
+			button.Text = " "   -- by @takashi_dk17  
+		end  
+	end)  
+end
+coroutine.wrap(NWTHDTS_fake_script)()
+local function SMUDZRP_fake_script() -- UnlockMouse.Change Name 
+	local script = Instance.new('LocalScript', UnlockMouse)
+
+	local textButton = script.Parent  
+	
+	textButton.MouseButton1Click:Connect(function()  
+		textButton.Text = "✓"  
+	end)  
+end
+coroutine.wrap(SMUDZRP_fake_script)()
+local function BVZMU_fake_script() -- UnlockMouse.Change Firts Person 
+	local script = Instance.new('LocalScript', UnlockMouse)
+
+	local player = game.Players.LocalPlayer  
+	local button = script.Parent  
+	
+	button.MouseButton1Click:Connect(function()  
+	    -- by @takashi_dk17
+		player.CameraMode = Enum.CameraMode.Classic  
+	
+		-- by @takashi_dk17
+		player:GetMouse().Icon = "rbxasset://textures/ArrowCursor.png"  
+		game:GetService("UserInputService"):SetMouseLock(false) 
+	end)  
+	
+end
+coroutine.wrap(BVZMU_fake_script)()
+local function LYQNJ_fake_script() -- bytakashi_dk17_17.Hitbox Expander 
+	local script = Instance.new('LocalScript', bytakashi_dk17_17)
+
+	local textButton = script.Parent -- by @takashi_dk17  
+	local isRunning = false -- Bandera para controlar la ejecución  
+	
+	textButton.MouseButton1Click:Connect(function()  
+		if isRunning then return end -- Evita múltiples ejecuciones simultáneas  
+		isRunning = true  
+	
+		local player = game.Players.LocalPlayer  
+		local character = player.Character or player.CharacterAdded:Wait()  
+		local playerModel = character:FindFirstChildOfClass("Model") -- by @takashi_dk17  
+	
+		while true do  
+			wait(2) -- by @takashi_dk17
+	
+			-- by @takashi_dk17
+			for _, object in pairs(workspace:GetDescendants()) do  
+				if object:IsA("BillboardGui") and object.Name == "ObjectInfo" then  
+					local parentModel = object.Parent  
+	
+					-- by @takashi_dk17
+					if parentModel:IsA("Model") and parentModel:FindFirstChild("Humanoid") and parentModel ~= playerModel then  
+						local head = parentModel:FindFirstChild("Head")  
+						if head then  
+							head.Size = Vector3.new(5.95, 5.291, 5.126) -- by @takashi_dk17  
+							head.Transparency = 0.3 -- by @takashi_dk17
+						end  
+					end  
+				end  
+			end  
+		end  
+	end)  
+end
+coroutine.wrap(LYQNJ_fake_script)()
+local function KRBOU_fake_script() -- bytakashi_dk17.Verificador 
+	local script = Instance.new('LocalScript', bytakashi_dk17)
+
+	local player = game.Players.LocalPlayer  
+	local guiName = "ObjectInfo"  
+	
+	while true do  
+		wait(1) -- by @takashi_dk17  
+	
+		-- Busca el BillboardGui dentro del modelo del jugador  
+		local character = player.Character or player.CharacterAdded:Wait()  
+		local objectInfoGui = character:FindFirstChild(guiName)  
+	
+		-- by @takashi_dk17
+		if objectInfoGui then  
+			objectInfoGui:Destroy()  
+		end  
+	end  
+end
+coroutine.wrap(KRBOU_fake_script)()
